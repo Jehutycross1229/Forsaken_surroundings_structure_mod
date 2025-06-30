@@ -22,7 +22,7 @@
     ]
   },
   "mixins": [
-    "template.mixins.json"
+    "ForsakenSurroundings.mixins.json"
   ],
 
   "depends": {
