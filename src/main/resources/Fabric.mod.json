@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "template",
+  "id": "ForsakenSurroundings",
   "version": "${version}",
 
-  "name": "Template",
+  "name": "ForsakenSurroundings",
   "description": "",
   "authors": [
-    "DanyGames2014"
+    "MARIAM"
   ],
 
   "license": "MIT",
-  "icon": "assets/template/icon.png",
+  "icon": "assets/ForsakenSurroundings/icon.png",
 
   "environment": "*",
   "entrypoints": {
